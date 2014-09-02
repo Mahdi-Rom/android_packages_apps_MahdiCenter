@@ -68,16 +68,7 @@
     <string name="short_cut_download_gapps_title">Gapps</string>
     <string name="short_cut_download_gapps_summary">Slim Gappsパッケージのダウンロード</string>
 
-    <!-- URL's -->
-    <string name="download_url">http://files.mahdi-rom.com/</string>
-    <string name="changelog_url">http://files.mahdi-rom.com/ota/changelogsimple.txt</string>
-    <string name="xda_url">http://forum.xda-developers.com/usercp.php</string>
-    <string name="gapps_url">http://slimroms.net/index.php/downloads/dlsearch/viewcategory/1150-addons4-4</string>
-    <string name="gapps_url_kitkat">http://slimroms.net/index.php/downloads/dlsearch/viewcategory/1150-addons4-4</string>
-
     <!-- Update checker -->    
-    <string name="xml_url">http://files.mahdi-rom.com/ota/ota_kitkat.xml</string>
-    <string name="xml_url_kitkat">http://files.mahdi-rom.com/ota/ota_kitkat.xml</string>
     <string name="notification_message">ROMの更新があります</string>
 
     <!-- About -->
@@ -99,15 +90,12 @@
     <string name="report_infosuccess">作成されたシステムレポートはバグレポートに添付されてMahdi-Romに提供されます。あなたはSDカード上の\"Mahdi\".というディレクトリ内にZipファイルを確認することができます。</string>
     <string name="report_infofail">バグレポートの作成に失敗しました。再施行してください。</string>
 
-    <string name="about_home_url"><a href="http://mahdi-rom.com/">Mahdi-ROM</a></string>
     <string name="about_ota">OTAセンターを利用すると容易にROMを管理することができます!</string>
-    <string name="about_copyright">\u00A9 Copyright Slimroms 2013 modifed for Mahdi-ROM</string>
     <string name="about_version">OTAセンター 2.0</string>
     <string name="about_contact">メール:Mahdi.Rom@gmail.com</string>
     <string name="about_contact_text">意見を聞かせてください\nバグや問題をお知らせください</string>
     <string name="about_license">オープンソースライセンス</string>
     <string name="about_license_text">OTAセンターアプリ:</string>
-    <string name="about_license_url"><a href="http://otaslim.slimroms.net/license.htm">gpl(2)</a></string>
 
     <!-- MahdiSizer  -->
     <string name="listsystem">リスト</string>
@@ -120,7 +108,7 @@
     <string name="sizer_message_delete_multi">選択したアプリを削除してもよろしいですか?</string>
     <string name="btn_delete">選択したアプリを削除!</string>
     <string name="delete_progress_title">削除中</string>
-    <string name="delete_progress">選択したファイルの削除中です。少々お待ちください。/string>
+    <string name="delete_progress">選択したファイルの削除中です。少々お待ちください。</string>
     <string name="delete_success">削除しました</string>
     <string name="delete_fail">削除できません</string>
     <string name="btn_profile">プロファイル</string>
